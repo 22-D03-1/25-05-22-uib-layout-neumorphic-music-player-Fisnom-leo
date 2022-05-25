@@ -38,7 +38,7 @@ nav button {
     width: 15%;
     aspect-ratio: 1;
     border: none;
-    border-radius: 15px;
+    border-radius: 14.5px;
     background: #e0e0e0;
     box-shadow: inset 5px 5px 10px #bcbcbc, inset -5px -5px 10px #ffffff;
 }
